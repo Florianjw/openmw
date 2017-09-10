@@ -128,5 +128,10 @@
         <file alias="scene-view-marker-c5">scene-exterior-status-5.png</file>
         <file alias="scene-view-marker-c6">scene-exterior-status-6.png</file>
         <file alias="scene-view-marker-c7">scene-exterior-status-7.png</file>
+        <file alias="move">move.png</file>
+        <file alias="scale">scale.png</file>
+        <file alias="rotate">rotate.png</file>
+        <file alias="instance-editing">instance-editing.png</file>
+        <file alias="pathgrid-editing">pathgrid-editing.png</file>
     </qresource>
 </RCC>
